@@ -141,19 +141,19 @@ nav a:hover {
 }
 .calendarDate {
   height: 75px;
-  background: url(./img/calendar.png) no-repeat left #5ca719;
+  background: url(./calendar.png) no-repeat left #5ca719;
 }
 .img-adv2 {
   height: 69px;
-  background: url(./img/tailieuhoctap.png) no-repeat left #2775ec;
+  background: url(./tailieuhoctap.png) no-repeat left #2775ec;
 }
 .img-adv {
   height: 76px;
-  background: url(./img/hoso.png) no-repeat left #ee4216;
+  background: url(./hoso.png) no-repeat left #ee4216;
 }
 .img-dktt {
   height: 54px;
-  background: url(./img/mail.png) no-repeat left #008c17;
+  background: url(./mail.png) no-repeat left #008c17;
 }
 
 footer {
